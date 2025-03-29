@@ -1,6 +1,6 @@
 # Contact Book Web Application
 
-
+[![Netlify Status]https://inspiring-horse-c90a37.netlify.app/
 ## Overview
 This is a simple Contact Book web application built using **Vue 3**, **Vue Router 4**, and **Vite**. The application allows users to **view, search, add, edit, and delete** contacts. The data is stored in **local storage**, ensuring persistence across sessions.
 
